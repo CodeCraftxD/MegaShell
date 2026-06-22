@@ -110,7 +110,7 @@ print = safe_print
 #  GLOBAL STATE
 # ============================================================
 
-VERSION = "2.4.0"
+VERSION = "Latest"
 
 STATE = {
     "cwd": os.getcwd(),
