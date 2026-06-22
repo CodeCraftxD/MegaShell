@@ -1,5 +1,7 @@
 # MegaShell
 
+<img width="568" height="330" alt="image" src="https://github.com/user-attachments/assets/f999742a-99a8-4073-adcf-f73478be54e2" />
+
 A single-file, do-everything command-line app written in Python. MegaShell
 is a custom shell with its own scripting language, a real cross-platform
 package manager front-end, full PATH passthrough for every tool you already
