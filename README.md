@@ -2,7 +2,9 @@
 
 <img width="568" height="330" alt="image" src="https://github.com/user-attachments/assets/f999742a-99a8-4073-adcf-f73478be54e2" />
 
-A single-file, do-everything command-line app written in Python. MegaShell
+# MegaShell is a feature-packed command-line utility and experimentation project. It is not intended to be a full replacement for traditional shells such as Bash, Zsh, or PowerShell.
+
+A single-file command-line app written in Python. MegaShell
 is a custom shell with its own scripting language, a real cross-platform
 package manager front-end, full PATH passthrough for every tool you already
 have installed, networking and filesystem tools, system management, Git
